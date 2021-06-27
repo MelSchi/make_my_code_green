@@ -1,9 +1,0 @@
-Total lines: 53
-Total headers: 5
-Total for loops: 0
-Total while loops: 2
-Library <stdio.h> is unused
-Library <unistd.h> is unused
-Library <sys/types.h> is unused
-Library <sys/stat.h> is unused
-Library <stdlib.h> is unused
