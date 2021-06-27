@@ -1,6 +1,8 @@
 # make my code green
 Repo for the her-hackathon2021 team "42 She-Wolves"
 
+Best work on Mac OS
+
 What it does:
 It detects on your c file:
 - Number of dynamic libraries included
