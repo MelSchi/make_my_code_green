@@ -20,7 +20,6 @@ int	ft_checksign(char c)
 {
 	int	sign;
 
-	printf("hi\n");
 	sign = 0;
 	if (c == '-')
 		sign = -1;

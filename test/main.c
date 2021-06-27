@@ -1,5 +1,5 @@
 #include <stdio.h>
-// #include <stdlib.h>
+ #include <stdlib.h>
 
 int	ft_atoi (const char *nptr);
 
@@ -10,7 +10,6 @@ int	main(void)
 	int			res_orig;
 
 	res = ft_atoi(input);
-	res_orig = atoi(input);
 	printf("Before: %s\n", input);
 	printf("After: %d\n", res);
 	printf("Orig_atoi: %d\n", res_orig);
